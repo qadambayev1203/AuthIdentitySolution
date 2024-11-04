@@ -1,0 +1,6 @@
+@AuthIdentityService_HostAddress = http://localhost:5059
+
+GET {{AuthIdentityService_HostAddress}}/auth/
+Accept: application/json
+
+###
